@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-repositorio de prueba prep henry modulo 2
+# PrepCourse-Henry Emanuel Errante
+Crear un repositorio de git hub y clonarlo a mi escritorio
